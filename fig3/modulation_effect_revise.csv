@@ -1,0 +1,19 @@
+﻿monkeyID,dreadd,region,agonist,experiments,effect,start,end,ID,group,start.y,end.y,activation,moid
+153R,hM4Di,R-OFC/L-rmCD,CNO/C21,MR task,positive,123,269,1,153R_1,0.336986301,0.736986301,10,#153
+163R,hM4Di,bilateral CD,CNO/C21,Discounting task/MR task,positive,63,405,3,163R_1,0.17260274,1.109589041,21,#163
+201R,hM4Di,Bilateral OFC activation sites,DCZ,"Delayed matching to sample task (Behavior, fPET, Electrophysiology)",positive,56,953,5,201R_1,0.153424658,2.610958904,54,#201
+207R,hM4Di,Bilateral OFC activation sites,CNO/DCZ,"Delayed matching to sample task (Behavior, fPET, Electrophysiology)",positive,43,1114,6,207R_1,0.117808219,3.052054795,60,#207
+215R,hM3Dq,L-Amygdala,DCZ,"FDG, 宮川",positive,98,926,9,215R_1,0.268493151,2.536986301,14,#215
+218J,hM4Di,bilateral OFC,DCZ,reversal learning task,positive,525,1140,10,218J_2,1.438356164,3.123287671,72,#218
+221J,hM4Di,L-OFC/R-rmCD,CNO/DCZ,MR task,positive,86,319,11,221J_1,0.235616438,0.873972603,19,#221
+223C,hM3Dq,Striatum,DCZ,FDG,positive,86,213,12,223C_1,0.235616438,0.583561644,3,#223
+224J,hM3Dq,Bilateral Amygdala,DCZ,"FDG, 宮川",positive,50,332,13,224J_1,0.136986301,0.909589041,15,#224
+225J,hM4Di,Unilateral SI(D2) activation site,DCZ,Tactile fMRI & Brinkman Board task,positive,182,587,14,225J_1,0.498630137,1.608219178,14,#225
+229R,hM4Di,bilateral DLPFC,DCZ,delayed response task,positive,366,869,15,229R_1,1.002739726,2.380821918,58,#229
+234J,hM4Di,Unilateral SI(D2) activation site,DCZ,Tactile fMRI & Brinkman Board task,positive,57,721,18,234J_1,0.156164384,1.975342466,22,#234
+236J,hM3Dq,R-Amygdala,DCZ,"FDG, 宮川",positive,369,833,19,236J_1,1.010958904,2.282191781,24,#236
+238J,hM4Di,bilateral OFC,DCZ,"reversal learning task, devaluation task",positive,56,1121,20,238J_1,0.153424658,3.071232877,84,#238
+241J,hM3Dq,Striatum,DCZ,FDG,positive,72,406,22,241J_1,0.197260274,1.112328767,5,#241
+245J,hM4Di,bilateral DLPFC,DCZ,delayed response task,positive,88,709,23,245J_1,0.24109589,1.942465753,132,#245
+255C,hM3Dq,Thalamus,DCZ,"FDG, displacement",positive,122,647,25,255C_1,0.334246575,1.77260274,14,#255
+234J,hM4Di,Unilateral SI(D2) activation site,DCZ,Tactile fMRI & Brinkman Board task,negative,1102,1234,18,234J_1,3.019178082,3.380821918,9,#234

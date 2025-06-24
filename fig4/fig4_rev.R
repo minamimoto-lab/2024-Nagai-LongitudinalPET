@@ -3,6 +3,8 @@ library(ggplot2)
 library(openxlsx)
 library(patchwork)
 
+rm(list=ls())
+
 # variables
 set.seed(123)
 sortHemisphere = c("Ipsi","Contra")
@@ -28,22 +30,37 @@ mytheme = theme(
 )
 
 #import data of fine grasping
-dfHand=read.xlsx("fig4.xlsx",1) %>%
+dfHand=read.csv("fig4_rev_hand.csv") %>%
   mutate(hemisphere=factor(hemisphere,levels=sortHemisphere)) %>%
   mutate(timing=factor(timing,levels=sortTiming)) %>%
   mutate(hemi_numeric=as.numeric(as.factor(hemisphere)))%>%
   mutate(jittered_x=jitter(hemi_numeric,amount=0.1))
-  
+
+dfHandSummary = dfHand %>%
+  group_by(timing,hemisphere) %>%
+  summarise(
+    mean = mean(value),
+    sd = sd(value),
+    se = sd(value) / sqrt(n())
+  )
+
 #import data of foot cold
-dfFoot=read.xlsx("fig4.xlsx",2) %>%
+dfFoot=read.csv("fig4_rev_foot.csv") %>%
   mutate(hemisphere=factor(hemisphere,levels=sortHemisphere)) %>%
   mutate(timing=factor(timing,levels=sortTiming)) %>%
   mutate(condition=factor(condition,levels=sortCondition))%>%
   mutate(cond_numeric=as.numeric(as.factor(condition)))%>%
   mutate(jittered_x=jitter(cond_numeric,amount=0.1))
 
+dfFootSummary = dfFoot %>%
+  group_by(timing,hemisphere,condition) %>%
+  summarise(
+    mean = mean(value),
+    sd = sd(value),
+    se = sd(value) / sqrt(n())
+  )
+
 #make figure for Fine grasping
-#positive results
 g_hand_p = ggplot()+
   geom_errorbar(data=subset(dfHandSummary,timing=="positive"),aes(x=hemisphere,ymin=mean-se,ymax=mean+se),width=0)+
   geom_col(data=subset(dfHandSummary,timing=="positive"),aes(x=hemisphere,y=mean,fill=hemisphere),width=0.5)+
@@ -62,7 +79,8 @@ g_hand_p = ggplot()+
     axis.text.x=element_text(color=ifelse(dfHandSummary$hemisphere=="Ipsi",HandIpsiColor,HandContraColor))
   )
 
-#extinguished results
+g_hand_p
+
 g_hand_e = ggplot()+
   geom_errorbar(data=subset(dfHandSummary,timing=="extinguished"),aes(x=hemisphere,ymin=mean-se,ymax=mean+se),width=0)+
   geom_col(data=subset(dfHandSummary,timing=="extinguished"),aes(x=hemisphere,y=mean,fill=hemisphere),width=0.5)+
@@ -82,8 +100,13 @@ g_hand_e = ggplot()+
     axis.text.x=element_text(color=ifelse(dfHandSummary$hemisphere=="Ipsi",HandIpsiColor,HandContraColor))
   )
 
+g_hand_e
+
+g_hand=g_hand_p|g_hand_e
+
+g_hand
+
 #make figure for foot cold
-#positive results
 g_foot_p = ggplot()+
   geom_errorbar(data=subset(dfFootSummary,timing=="positive"),aes(x=condition,ymin=mean-se,ymax=mean+se),width=0)+
   geom_col(data=subset(dfFootSummary,timing=="positive"),aes(x=condition,y=mean,fill=condition),width=0.5)+
@@ -102,7 +125,9 @@ g_foot_p = ggplot()+
     axis.text.x=element_text(color=ifelse(dfFootSummary$condition=="Ctrl",FootCtrlColor,FootColdColor))
   )
 
-#extinguished results
+g_foot_p
+
+
 g_foot_e = ggplot()+
   geom_errorbar(data=subset(dfFootSummary,timing=="extinguished"),aes(x=condition,ymin=mean-se,ymax=mean+se),width=0)+
   geom_col(data=subset(dfFootSummary,timing=="extinguished"),aes(x=condition,y=mean,fill=condition),width=0.5)+
@@ -121,6 +146,16 @@ g_foot_e = ggplot()+
     axis.text.x=element_text(color=ifelse(dfFootSummary$condition=="Ctrl",FootCtrlColor,FootColdColor))
   )
 
-#figure layout
+g_foot_e
+
+
+g_foot=g_foot_p|g_foot_e
+
+g_foot
+
+
+#output figure
 g=(plot_spacer()+g_hand_p+g_hand_e+plot_spacer()+plot_layout(widths=c(2,3,3,2)))/(g_foot_p|g_foot_e)
 g
+
+#end of note

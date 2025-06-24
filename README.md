@@ -1,1 +1,1 @@
-This source data is associated with the manuscript "Longitudinal assessment of DREADD expression and efficacy in the monkey brain" by Yuji Nagai et al., 2024.
+This source data is associated with the manuscript "Longitudinal assessment of DREADD expression and efficacy in the monkey brain" by Yuji Nagai et al., 2024. (Revised Jun 24, 2025)

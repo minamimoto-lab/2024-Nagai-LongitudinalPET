@@ -1,0 +1,787 @@
+subject,id,moid,years,exam,tracer,activation,route,dreadd,compound,dose,task,days
+153,153R,#153,0.336986301,Behavior,NA,1,i.v.,hM4Di,C21,0.3,reward size task,123
+153,153R,#153,0.347945205,Behavior,NA,0,i.v.,hM4Di,vehicle,na,reward size task,127
+153,153R,#153,0.353424658,Behavior,NA,1,i.v.,hM4Di,C21,0.3,reward size task,129
+153,153R,#153,0.367123288,Behavior,NA,0,i.v.,hM4Di,vehicle,na,reward size task,134
+153,153R,#153,0.375342466,Behavior,NA,1,i.v.,hM4Di,C21,0.3,reward size task,137
+153,153R,#153,0.38630137,Behavior,NA,0,i.v.,hM4Di,vehicle,na,reward size task,141
+153,153R,#153,0.55890411,Behavior,NA,0,i.v.,hM4Di,vehicle,na,reward size task,204
+153,153R,#153,0.564383562,Behavior,NA,1,i.v.,hM4Di,CNO,3,reward size task,206
+153,153R,#153,0.578082192,Behavior,NA,0,i.v.,hM4Di,vehicle,na,reward size task,211
+153,153R,#153,0.583561644,Behavior,NA,1,i.v.,hM4Di,CNO,3,reward size task,213
+153,153R,#153,0.597260274,Behavior,NA,0,i.v.,hM4Di,vehicle,na,reward size task,218
+153,153R,#153,0.602739726,Behavior,NA,1,i.v.,hM4Di,CNO,3,reward size task,220
+153,153R,#153,0.616438356,Behavior,NA,0,i.v.,hM4Di,vehicle,na,reward size task,225
+153,153R,#153,0.679452055,Behavior,NA,1,i.v.,hM4Di,CNO,3,reward size task,248
+153,153R,#153,0.693150685,Behavior,NA,0,i.v.,hM4Di,vehicle,na,reward size task,253
+153,153R,#153,0.698630137,Behavior,NA,1,i.v.,hM4Di,CNO,3,reward size task,255
+153,153R,#153,0.712328767,Behavior,NA,0,i.v.,hM4Di,vehicle,na,reward size task,260
+153,153R,#153,0.717808219,Behavior,NA,1,i.v.,hM4Di,CNO,3,reward size task,262
+153,153R,#153,0.731506849,Behavior,NA,0,i.v.,hM4Di,vehicle,na,reward size task,267
+153,153R,#153,0.736986301,Behavior,NA,1,i.v.,hM4Di,CNO,3,reward size task,269
+163,163R,#163,0.17260274,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,delayed reward task,63
+163,163R,#163,0.189041096,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,delayed reward task,69
+163,163R,#163,0.210958904,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,delayed reward task,77
+163,163R,#163,0.230136986,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,delayed reward task,84
+163,163R,#163,0.235616438,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed reward task,86
+163,163R,#163,0.249315068,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,delayed reward task,91
+163,163R,#163,0.254794521,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed reward task,93
+163,163R,#163,0.268493151,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,delayed reward task,98
+163,163R,#163,0.293150685,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed reward task,107
+163,163R,#163,0.326027397,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed reward task,119
+163,163R,#163,0.331506849,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,delayed reward task,121
+163,163R,#163,0.345205479,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed reward task,126
+163,163R,#163,0.350684932,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,delayed reward task,128
+163,163R,#163,0.438356164,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed reward task,160
+163,163R,#163,0.443835616,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,delayed reward task,162
+163,163R,#163,0.536986301,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,196
+163,163R,#163,0.542465753,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,reward size task,198
+163,163R,#163,0.556164384,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,203
+163,163R,#163,0.561643836,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,reward size task,205
+163,163R,#163,0.575342466,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,210
+163,163R,#163,0.580821918,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,reward size task,212
+163,163R,#163,0.594520548,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,217
+163,163R,#163,0.6,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,reward size task,219
+163,163R,#163,0.61369863,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,224
+163,163R,#163,0.619178082,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,reward size task,226
+163,163R,#163,0.709589041,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed reward task,259
+163,163R,#163,0.715068493,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,delayed reward task,261
+163,163R,#163,0.728767123,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed reward task,266
+163,163R,#163,0.734246575,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,delayed reward task,268
+163,163R,#163,0.753424658,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,delayed reward task,275
+163,163R,#163,1.04109589,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,delayed reward task,380
+163,163R,#163,1.073972603,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,delayed reward task,392
+163,163R,#163,1.090410959,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,delayed reward task,398
+163,163R,#163,1.109589041,Behavior,NA,1,i.m.,hM4Di,DCZ,0.1,delayed reward task,405
+201,201R,#201,0.153424658,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,56
+201,201R,#201,0.191780822,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,70
+201,201R,#201,0.210958904,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,77
+201,201R,#201,0.230136986,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,84
+201,201R,#201,0.268493151,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,98
+201,201R,#201,0.287671233,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,105
+201,201R,#201,0.356164384,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,130
+201,201R,#201,0.356164384,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,130
+201,201R,#201,0.421917808,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,154
+201,201R,#201,0.421917808,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,154
+201,201R,#201,0.44109589,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,161
+201,201R,#201,0.479452055,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,175
+201,201R,#201,0.498630137,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,182
+201,201R,#201,0.517808219,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,189
+201,201R,#201,0.536986301,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,196
+201,201R,#201,0.652054795,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,238
+201,201R,#201,0.728767123,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,266
+201,201R,#201,0.747945205,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,273
+201,201R,#201,0.767123288,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,280
+201,201R,#201,0.824657534,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,301
+201,201R,#201,0.882191781,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,322
+201,201R,#201,0.997260274,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,364
+201,201R,#201,1.073972603,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,392
+201,201R,#201,1.304109589,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,476
+201,201R,#201,1.769863014,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,646
+201,201R,#201,1.789041096,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,653
+201,201R,#201,1.805479452,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,659
+201,201R,#201,1.821917808,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,665
+201,201R,#201,1.84109589,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,672
+201,201R,#201,1.860273973,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,679
+201,201R,#201,1.879452055,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,686
+201,201R,#201,1.898630137,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,693
+201,201R,#201,1.920547945,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,701
+201,201R,#201,1.939726027,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,708
+201,201R,#201,1.961643836,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,716
+201,201R,#201,2,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,730
+201,201R,#201,2.019178082,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,737
+201,201R,#201,2.035616438,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,743
+201,201R,#201,2.054794521,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,750
+201,201R,#201,2.073972603,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,757
+201,201R,#201,2.189041096,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,799
+201,201R,#201,2.232876712,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,815
+201,201R,#201,2.290410959,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,836
+201,201R,#201,2.345205479,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,856
+201,201R,#201,2.383561644,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,870
+201,201R,#201,2.408219178,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,879
+201,201R,#201,2.465753425,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,900
+201,201R,#201,2.479452055,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,905
+201,201R,#201,2.495890411,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,911
+201,201R,#201,2.520547945,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,920
+201,201R,#201,2.553424658,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,932
+201,201R,#201,2.57260274,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,939
+201,201R,#201,2.591780822,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,946
+201,201R,#201,2.610958904,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,953
+207,207R,#207,0.117808219,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,43
+207,207R,#207,0.17260274,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,63
+207,207R,#207,0.191780822,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,70
+207,207R,#207,0.210958904,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,77
+207,207R,#207,0.230136986,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,84
+207,207R,#207,0.249315068,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,91
+207,207R,#207,0.309589041,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,113
+207,207R,#207,0.421917808,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,154
+207,207R,#207,0.44109589,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,161
+207,207R,#207,0.471232877,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,172
+207,207R,#207,0.498630137,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,182
+207,207R,#207,0.517808219,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,189
+207,207R,#207,0.547945205,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,200
+207,207R,#207,0.575342466,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,210
+207,207R,#207,0.594520548,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,217
+207,207R,#207,0.61369863,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,224
+207,207R,#207,0.632876712,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,231
+207,207R,#207,0.671232877,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,245
+207,207R,#207,0.709589041,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,259
+207,207R,#207,0.747945205,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,273
+207,207R,#207,0.824657534,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,301
+207,207R,#207,0.882191781,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,322
+207,207R,#207,1.189041096,Behavior,NA,1,i.v.,hM4Di,CNO,3000,DMS,434
+207,207R,#207,1.498630137,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,547
+207,207R,#207,1.536986301,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,561
+207,207R,#207,1.575342466,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,575
+207,207R,#207,1.61369863,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,589
+207,207R,#207,1.652054795,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,603
+207,207R,#207,2.109589041,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,770
+207,207R,#207,2.131506849,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,778
+207,207R,#207,2.147945205,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,784
+207,207R,#207,2.197260274,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,802
+207,207R,#207,2.208219178,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,806
+207,207R,#207,2.230136986,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,814
+207,207R,#207,2.243835616,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,819
+207,207R,#207,2.263013699,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,826
+207,207R,#207,2.284931507,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,834
+207,207R,#207,2.35890411,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,861
+207,207R,#207,2.4,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,876
+207,207R,#207,2.438356164,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,890
+207,207R,#207,2.465753425,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,900
+207,207R,#207,2.495890411,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,911
+207,207R,#207,2.512328767,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,917
+207,207R,#207,2.534246575,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,925
+207,207R,#207,2.589041096,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,945
+207,207R,#207,2.630136986,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,960
+207,207R,#207,2.649315068,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,967
+207,207R,#207,2.687671233,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,981
+207,207R,#207,2.728767123,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,996
+207,207R,#207,2.745205479,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,1002
+207,207R,#207,2.802739726,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,1023
+207,207R,#207,2.821917808,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,1030
+207,207R,#207,2.849315068,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,1040
+207,207R,#207,2.863013699,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,1045
+207,207R,#207,2.882191781,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,1052
+207,207R,#207,2.917808219,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,1065
+207,207R,#207,2.95890411,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,1080
+207,207R,#207,2.994520548,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,1093
+207,207R,#207,3.035616438,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,1108
+207,207R,#207,3.052054795,Behavior,NA,1,i.v.,hM4Di,DCZ,100,DMS,1114
+218,218J,#218,1.438356164,Behavior,NA,1,i.m.,hM4Di,DCZ,30,value choice task,525
+218,218J,#218,1.449315068,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,value choice task,529
+218,218J,#218,1.457534247,Behavior,NA,1,i.m.,hM4Di,DCZ,100,value choice task,532
+218,218J,#218,1.465753425,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,value choice task,535
+218,218J,#218,1.471232877,Behavior,NA,1,i.m.,hM4Di,DCZ,100,value choice task,537
+218,218J,#218,1.487671233,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,value choice task,543
+218,218J,#218,1.506849315,Behavior,NA,1,i.m.,hM4Di,DCZ,100,value choice task,550
+218,218J,#218,1.512328767,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,value choice task,552
+218,218J,#218,1.526027397,Behavior,NA,1,i.m.,hM4Di,DCZ,100,value choice task,557
+218,218J,#218,1.531506849,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,value choice task,559
+218,218J,#218,1.545205479,Behavior,NA,1,i.m.,hM4Di,DCZ,100,value choice task,564
+218,218J,#218,1.550684932,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,value choice task,566
+218,218J,#218,1.583561644,Behavior,NA,1,i.m.,hM4Di,DCZ,100,value choice task,578
+218,218J,#218,1.643835616,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,value choice task,600
+218,218J,#218,1.646575342,Behavior,NA,1,i.m.,hM4Di,DCZ,100,value choice task,601
+218,218J,#218,1.657534247,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,value choice task,605
+218,218J,#218,1.660273973,Behavior,NA,1,i.m.,hM4Di,DCZ,100,value choice task,606
+218,218J,#218,1.663013699,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,value choice task,607
+218,218J,#218,1.665753425,Behavior,NA,1,i.m.,hM4Di,DCZ,100,value choice task,608
+218,218J,#218,1.783561644,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,value choice task,651
+218,218J,#218,1.794520548,Behavior,NA,1,i.m.,hM4Di,DCZ,100,value choice task,655
+218,218J,#218,1.819178082,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,value choice task,664
+218,218J,#218,1.821917808,Behavior,NA,1,i.m.,hM4Di,DCZ,100,value choice task,665
+218,218J,#218,1.835616438,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,value choice task,670
+218,218J,#218,1.838356164,Behavior,NA,1,i.m.,hM4Di,DCZ,100,value choice task,671
+218,218J,#218,1.983561644,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,724
+218,218J,#218,1.991780822,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,727
+218,218J,#218,2.005479452,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,732
+218,218J,#218,2.010958904,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,734
+218,218J,#218,2.021917808,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,738
+218,218J,#218,2.024657534,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,739
+218,218J,#218,2.049315068,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,748
+218,218J,#218,2.052054795,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,749
+218,218J,#218,2.068493151,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,755
+218,218J,#218,2.071232877,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,756
+218,218J,#218,2.079452055,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,759
+218,218J,#218,2.082191781,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,760
+218,218J,#218,2.087671233,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,762
+218,218J,#218,2.090410959,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,763
+218,218J,#218,2.101369863,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,767
+218,218J,#218,2.104109589,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,768
+218,218J,#218,2.109589041,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,770
+218,218J,#218,2.117808219,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,773
+218,218J,#218,2.123287671,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,775
+218,218J,#218,2.126027397,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,776
+218,218J,#218,2.142465753,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,782
+218,218J,#218,2.145205479,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,783
+218,218J,#218,2.156164384,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,787
+218,218J,#218,2.15890411,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,788
+218,218J,#218,2.161643836,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,789
+218,218J,#218,2.164383562,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,790
+218,218J,#218,2.175342466,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,794
+218,218J,#218,2.178082192,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,795
+218,218J,#218,2.183561644,Behavior,NA,0,i.m.,hM4Di,vehicle,n.a.,reversal learning task,797
+218,218J,#218,2.18630137,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,798
+218,218J,#218,2.619178082,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,956
+218,218J,#218,2.621917808,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,957
+218,218J,#218,2.624657534,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,958
+218,218J,#218,2.62739726,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,959
+218,218J,#218,2.638356164,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,963
+218,218J,#218,2.64109589,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,964
+218,218J,#218,2.643835616,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,965
+218,218J,#218,2.654794521,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,969
+218,218J,#218,2.657534247,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,970
+218,218J,#218,2.660273973,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,971
+218,218J,#218,2.673972603,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,976
+218,218J,#218,2.676712329,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,977
+218,218J,#218,2.679452055,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,978
+218,218J,#218,2.684931507,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,980
+218,218J,#218,2.693150685,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,983
+218,218J,#218,2.695890411,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,984
+218,218J,#218,2.698630137,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,985
+218,218J,#218,2.701369863,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,986
+218,218J,#218,2.712328767,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,990
+218,218J,#218,2.715068493,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,991
+218,218J,#218,2.717808219,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,992
+218,218J,#218,2.720547945,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,993
+218,218J,#218,2.723287671,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,994
+218,218J,#218,2.731506849,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,997
+218,218J,#218,2.734246575,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,998
+218,218J,#218,2.736986301,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,999
+218,218J,#218,2.82739726,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1032
+218,218J,#218,2.830136986,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,1033
+218,218J,#218,2.832876712,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,1034
+218,218J,#218,2.835616438,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1035
+218,218J,#218,2.838356164,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1036
+218,218J,#218,2.849315068,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1040
+218,218J,#218,2.854794521,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,1042
+218,218J,#218,2.857534247,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1043
+218,218J,#218,2.865753425,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,1046
+218,218J,#218,2.873972603,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1049
+218,218J,#218,2.876712329,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,1050
+218,218J,#218,2.895890411,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,1057
+218,218J,#218,2.904109589,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1060
+218,218J,#218,2.923287671,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1067
+218,218J,#218,2.926027397,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,1068
+218,218J,#218,2.928767123,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1069
+218,218J,#218,2.931506849,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,1070
+218,218J,#218,2.934246575,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1071
+218,218J,#218,2.945205479,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,1075
+218,218J,#218,2.947945205,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1076
+218,218J,#218,2.950684932,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,1077
+218,218J,#218,2.953424658,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1078
+218,218J,#218,2.964383562,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,1082
+218,218J,#218,2.967123288,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1083
+218,218J,#218,2.969863014,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,1084
+218,218J,#218,2.97260274,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1085
+218,218J,#218,2.980821918,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,1088
+218,218J,#218,2.983561644,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,1089
+218,218J,#218,2.98630137,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,1090
+218,218J,#218,2.989041096,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,1091
+218,218J,#218,2.991780822,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,1092
+218,218J,#218,3.002739726,Behavior,NA,1,0,hM4Di,DCZ,100,reversal learning task,1096
+218,218J,#218,3.005479452,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,1097
+218,218J,#218,3.010958904,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,1099
+218,218J,#218,3.046575342,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,1112
+218,218J,#218,3.049315068,Behavior,NA,1,0,hM4Di,DCZ,100,reversal learning task,1113
+218,218J,#218,3.060273973,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,1117
+218,218J,#218,3.063013699,Behavior,NA,1,i.m.,hM4Di,DCZ,na,reversal learning task,1118
+218,218J,#218,3.065753425,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,1119
+218,218J,#218,3.068493151,Behavior,NA,1,i.m.,hM4Di,DCZ,na,reversal learning task,1120
+218,218J,#218,3.082191781,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,1125
+218,218J,#218,3.084931507,Behavior,NA,1,i.m.,hM4Di,DCZ,na,reversal learning task,1126
+218,218J,#218,3.087671233,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,1127
+218,218J,#218,3.104109589,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,1133
+218,218J,#218,3.115068493,Behavior,NA,1,i.m.,hM4Di,DCZ,na,reversal learning task,1137
+218,218J,#218,3.120547945,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,1139
+218,218J,#218,3.123287671,Behavior,NA,1,i.m.,hM4Di,DCZ,na,reversal learning task,1140
+218,218J,#218,3.134246575,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,1144
+221,221J,#221,0.219178082,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,80
+221,221J,#221,0.235616438,Behavior,NA,1,i.m.,hM4Di,CNO,3000,reward size task,86
+221,221J,#221,0.293150685,Behavior,NA,1,i.m.,hM4Di,CNO,3000,reward size task,107
+221,221J,#221,0.298630137,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,109
+221,221J,#221,0.312328767,Behavior,NA,1,i.m.,hM4Di,CNO,3000,reward size task,114
+221,221J,#221,0.317808219,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,116
+221,221J,#221,0.326027397,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,119
+221,221J,#221,0.331506849,Behavior,NA,1,i.m.,hM4Di,CNO,3000,reward size task,121
+221,221J,#221,0.350684932,Behavior,NA,1,i.m.,hM4Di,CNO,3000,reward size task,128
+221,221J,#221,0.369863014,Behavior,NA,1,i.m.,hM4Di,CNO,3000,reward size task,135
+221,221J,#221,0.389041096,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,reward size task,142
+221,221J,#221,0.408219178,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,reward size task,149
+221,221J,#221,0.41369863,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,151
+221,221J,#221,0.42739726,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,reward size task,156
+221,221J,#221,0.446575342,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,reward size task,163
+221,221J,#221,0.452054795,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,165
+221,221J,#221,0.504109589,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,reward size task,184
+221,221J,#221,0.509589041,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,186
+221,221J,#221,0.523287671,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,reward size task,191
+221,221J,#221,0.528767123,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,193
+221,221J,#221,0.734246575,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,reward size task,268
+221,221J,#221,0.739726027,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,270
+221,221J,#221,0.77260274,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,reward size task,282
+221,221J,#221,0.778082192,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,284
+221,221J,#221,0.791780822,Behavior,NA,1,i.m.,hM4Di,DCZ,na,reward size task,289
+221,221J,#221,0.797260274,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,291
+221,221J,#221,0.816438356,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,reward size task,298
+221,221J,#221,0.82739726,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,302
+221,221J,#221,0.835616438,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,reward size task,305
+221,221J,#221,0.843835616,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,308
+221,221J,#221,0.849315068,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,310
+221,221J,#221,0.854794521,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,reward size task,312
+221,221J,#221,0.868493151,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,317
+221,221J,#221,0.871232877,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reward size task,318
+221,221J,#221,0.873972603,Behavior,NA,1,i.m.,hM4Di,DCZ,0.03,reward size task,319
+225,225J,#225,0.498630137,Behavior,NA,1,na,hM4Di,DCZ,100,Fine grasping,182
+225,225J,#225,0.594520548,Behavior,NA,1,na,hM4Di,DCZ,100,Fine grasping,217
+225,225J,#225,0.61369863,Behavior,NA,1,na,hM4Di,DCZ,100,Fine grasping,224
+225,225J,#225,0.646575342,Behavior,NA,1,na,hM4Di,DCZ,100,Fine grasping,236
+225,225J,#225,0.709589041,Behavior,NA,1,na,hM4Di,DCZ,100,Fine grasping,259
+225,225J,#225,0.728767123,Behavior,NA,1,na,hM4Di,DCZ,100,Fine grasping,266
+225,225J,#225,0.747945205,Behavior,NA,1,na,hM4Di,DCZ,100,Fine grasping,273
+225,225J,#225,0.789041096,Behavior,NA,1,na,hM4Di,DCZ,100,Tactile fMRI,288
+225,225J,#225,0.942465753,Behavior,NA,1,na,hM4Di,DCZ,100,Tactile fMRI,344
+225,225J,#225,1.019178082,Behavior,NA,1,na,hM4Di,DCZ,100,Tactile fMRI,372
+225,225J,#225,1.115068493,Behavior,NA,1,na,hM4Di,DCZ,100,Tactile fMRI,407
+225,225J,#225,1.271232877,Behavior,NA,1,na,hM4Di,DCZ,100,Tactile fMRI,464
+225,225J,#225,1.345205479,Behavior,NA,1,na,hM4Di,DCZ,100,Tactile fMRI,491
+225,225J,#225,1.608219178,Behavior,NA,1,na,hM4Di,DCZ,100,Tactile fMRI,587
+234,234J,#234,0.156164384,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Tactile fMRI,57
+234,234J,#234,0.197260274,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Tactile fMRI,72
+234,234J,#234,0.235616438,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Tactile fMRI,86
+234,234J,#234,0.293150685,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Tactile fMRI,107
+234,234J,#234,0.334246575,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Tactile fMRI,122
+234,234J,#234,0.545205479,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Fine grasping,199
+234,234J,#234,0.55890411,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Fine grasping,204
+234,234J,#234,0.602739726,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Fine grasping,220
+234,234J,#234,0.630136986,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Fine grasping,230
+234,234J,#234,0.654794521,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Foot,239
+234,234J,#234,0.687671233,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Foot,251
+234,234J,#234,0.712328767,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Foot,260
+234,234J,#234,0.753424658,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Foot,275
+234,234J,#234,0.769863014,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Foot,281
+234,234J,#234,0.808219178,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Coarse grasping,295
+234,234J,#234,0.82739726,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Coarse grasping,302
+234,234J,#234,0.830136986,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Coarse grasping,303
+234,234J,#234,0.843835616,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Coarse grasping,308
+234,234J,#234,0.846575342,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Coarse grasping,309
+234,234J,#234,0.871232877,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Fine grasping,318
+234,234J,#234,1.956164384,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Foot,714
+234,234J,#234,1.975342466,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Foot,721
+234,234J,#234,3.019178082,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Foot,1102
+234,234J,#234,3.128767123,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Fine grasping,1142
+234,234J,#234,3.145205479,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Fine grasping,1148
+234,234J,#234,3.18630137,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Fine grasping,1163
+234,234J,#234,3.205479452,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Foot,1170
+234,234J,#234,3.265753425,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Foot,1192
+234,234J,#234,3.301369863,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Fine grasping,1205
+234,234J,#234,3.339726027,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Fine grasping,1219
+234,234J,#234,3.380821918,Behavior,NA,1,i.v.,hM4Di,DCZ,100,Foot,1234
+238,238J,#238,0.153424658,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,56
+238,238J,#238,0.156164384,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,57
+238,238J,#238,0.161643836,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,59
+238,238J,#238,0.164383562,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,60
+238,238J,#238,0.219178082,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,80
+238,238J,#238,0.232876712,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,85
+238,238J,#238,0.24109589,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,88
+238,238J,#238,0.276712329,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,101
+238,238J,#238,0.279452055,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,102
+238,238J,#238,0.290410959,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,106
+238,238J,#238,0.295890411,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,108
+238,238J,#238,0.309589041,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,113
+238,238J,#238,0.312328767,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,114
+238,238J,#238,0.317808219,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,116
+238,238J,#238,0.326027397,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,119
+238,238J,#238,0.331506849,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,121
+238,238J,#238,0.334246575,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,122
+238,238J,#238,0.345205479,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,126
+238,238J,#238,0.347945205,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,127
+238,238J,#238,0.353424658,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,129
+238,238J,#238,0.356164384,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,130
+238,238J,#238,0.37260274,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,136
+238,238J,#238,0.375342466,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,137
+238,238J,#238,0.383561644,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,140
+238,238J,#238,0.38630137,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,141
+238,238J,#238,0.424657534,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,155
+238,238J,#238,0.42739726,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,156
+238,238J,#238,0.432876712,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,158
+238,238J,#238,0.435616438,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,159
+238,238J,#238,0.446575342,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,163
+238,238J,#238,0.449315068,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,164
+238,238J,#238,0.673972603,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,246
+238,238J,#238,0.676712329,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,247
+238,238J,#238,0.693150685,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,253
+238,238J,#238,0.695890411,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,254
+238,238J,#238,0.734246575,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,268
+238,238J,#238,0.736986301,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,269
+238,238J,#238,0.832876712,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,304
+238,238J,#238,0.835616438,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,305
+238,238J,#238,0.852054795,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,311
+238,238J,#238,0.854794521,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,312
+238,238J,#238,0.863013699,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,315
+238,238J,#238,0.865753425,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,316
+238,238J,#238,0.868493151,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,317
+238,238J,#238,0.871232877,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,318
+238,238J,#238,0.882191781,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,322
+238,238J,#238,0.884931507,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,323
+238,238J,#238,0.887671233,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,324
+238,238J,#238,0.890410959,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,325
+238,238J,#238,0.893150685,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,326
+238,238J,#238,0.904109589,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,330
+238,238J,#238,0.906849315,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,331
+238,238J,#238,1.063013699,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,388
+238,238J,#238,1.065753425,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,389
+238,238J,#238,1.073972603,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,392
+238,238J,#238,1.076712329,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,393
+238,238J,#238,1.079452055,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,394
+238,238J,#238,1.082191781,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,395
+238,238J,#238,1.093150685,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,399
+238,238J,#238,1.095890411,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,400
+238,238J,#238,1.098630137,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,401
+238,238J,#238,1.101369863,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,402
+238,238J,#238,1.104109589,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,403
+238,238J,#238,1.112328767,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,406
+238,238J,#238,1.115068493,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,407
+238,238J,#238,1.117808219,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,408
+238,238J,#238,1.120547945,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,409
+238,238J,#238,1.123287671,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,410
+238,238J,#238,1.131506849,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,413
+238,238J,#238,1.134246575,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,414
+238,238J,#238,1.136986301,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,415
+238,238J,#238,1.150684932,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,420
+238,238J,#238,1.153424658,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,421
+238,238J,#238,1.156164384,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,422
+238,238J,#238,1.161643836,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,424
+238,238J,#238,1.169863014,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,427
+238,238J,#238,1.17260274,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,428
+238,238J,#238,1.175342466,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,429
+238,238J,#238,1.180821918,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,431
+238,238J,#238,1.208219178,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,441
+238,238J,#238,1.210958904,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,442
+238,238J,#238,1.21369863,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,443
+238,238J,#238,1.216438356,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,444
+238,238J,#238,1.219178082,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,445
+238,238J,#238,1.232876712,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,450
+238,238J,#238,1.235616438,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,451
+238,238J,#238,1.238356164,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,452
+238,238J,#238,1.246575342,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,455
+238,238J,#238,1.249315068,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,456
+238,238J,#238,1.254794521,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,458
+238,238J,#238,1.257534247,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,459
+238,238J,#238,1.265753425,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,462
+238,238J,#238,1.268493151,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,463
+238,238J,#238,1.271232877,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,464
+238,238J,#238,1.273972603,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,465
+238,238J,#238,1.276712329,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,466
+238,238J,#238,1.284931507,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,469
+238,238J,#238,1.287671233,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,470
+238,238J,#238,1.290410959,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,471
+238,238J,#238,1.293150685,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,472
+238,238J,#238,1.295890411,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,473
+238,238J,#238,1.309589041,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,478
+238,238J,#238,1.312328767,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,479
+238,238J,#238,1.315068493,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,480
+238,238J,#238,1.328767123,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,485
+238,238J,#238,1.345205479,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,491
+238,238J,#238,1.353424658,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,494
+238,238J,#238,1.361643836,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,497
+238,238J,#238,1.4,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,511
+238,238J,#238,1.419178082,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,518
+238,238J,#238,1.438356164,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,525
+238,238J,#238,1.476712329,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,539
+238,238J,#238,1.487671233,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,543
+238,238J,#238,1.515068493,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,553
+238,238J,#238,1.545205479,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,564
+238,238J,#238,1.556164384,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,reversal learning task,568
+238,238J,#238,1.561643836,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,reversal learning task,570
+238,238J,#238,1.978082192,Behavior,NA,0,i.m.,hM4Di,vehicle,na,devaluation task,722
+238,238J,#238,1.983561644,Behavior,NA,1,i.m.,hM4Di,DCZ,100,devaluation task,724
+238,238J,#238,1.997260274,Behavior,NA,0,i.m.,hM4Di,vehicle,na,devaluation task,729
+238,238J,#238,2.005479452,Behavior,NA,1,i.m.,hM4Di,DCZ,100,devaluation task,732
+238,238J,#238,2.01369863,Behavior,NA,0,i.m.,hM4Di,vehicle,na,devaluation task,735
+238,238J,#238,2.043835616,Behavior,NA,1,i.m.,hM4Di,DCZ,100,devaluation task,746
+238,238J,#238,2.071232877,Behavior,NA,0,i.m.,hM4Di,vehicle,na,devaluation task,756
+238,238J,#238,2.076712329,Behavior,NA,1,i.m.,hM4Di,DCZ,100,devaluation task,758
+238,238J,#238,2.153424658,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,786
+238,238J,#238,2.156164384,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,787
+238,238J,#238,2.15890411,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,788
+238,238J,#238,2.167123288,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,791
+238,238J,#238,2.169863014,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,792
+238,238J,#238,2.17260274,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,793
+238,238J,#238,2.208219178,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,806
+238,238J,#238,2.210958904,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,807
+238,238J,#238,2.21369863,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,808
+238,238J,#238,2.216438356,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,809
+238,238J,#238,2.22739726,Behavior,NA,0,i.m.,hM4Di,vehicle,na,reversal learning task,813
+238,238J,#238,2.230136986,Behavior,NA,1,i.m.,hM4Di,DCZ,100,reversal learning task,814
+238,238J,#238,2.704109589,Behavior,NA,0,i.m.,hM4Di,vehicle,na,Wisconsin Card Sorting Task,987
+238,238J,#238,2.706849315,Behavior,NA,1,i.m.,hM4Di,DCZ,100,Wisconsin Card Sorting Task,988
+238,238J,#238,2.709589041,Behavior,NA,0,i.m.,hM4Di,vehicle,na,Wisconsin Card Sorting Task,989
+238,238J,#238,2.712328767,Behavior,NA,1,i.m.,hM4Di,DCZ,100,Wisconsin Card Sorting Task,990
+238,238J,#238,2.723287671,Behavior,NA,0,i.m.,hM4Di,vehicle,na,Wisconsin Card Sorting Task,994
+238,238J,#238,2.726027397,Behavior,NA,1,i.m.,hM4Di,DCZ,100,Wisconsin Card Sorting Task,995
+238,238J,#238,2.731506849,Behavior,NA,0,i.m.,hM4Di,vehicle,na,Wisconsin Card Sorting Task,997
+238,238J,#238,2.734246575,Behavior,NA,1,i.m.,hM4Di,DCZ,100,Wisconsin Card Sorting Task,998
+238,238J,#238,2.742465753,Behavior,NA,0,i.m.,hM4Di,vehicle,na,Wisconsin Card Sorting Task,1001
+238,238J,#238,2.745205479,Behavior,NA,1,i.m.,hM4Di,DCZ,100,Wisconsin Card Sorting Task,1002
+238,238J,#238,2.895890411,Behavior,NA,0,i.m.,hM4Di,vehicle,na,Wisconsin Card Sorting Task,1057
+238,238J,#238,2.898630137,Behavior,NA,1,i.m.,hM4Di,DCZ,100,Wisconsin Card Sorting Task,1058
+238,238J,#238,2.901369863,Behavior,NA,0,i.m.,hM4Di,vehicle,na,Wisconsin Card Sorting Task,1059
+238,238J,#238,2.904109589,Behavior,NA,1,i.m.,hM4Di,DCZ,100,Wisconsin Card Sorting Task,1060
+238,238J,#238,2.906849315,Behavior,NA,0,i.m.,hM4Di,vehicle,na,Wisconsin Card Sorting Task,1061
+238,238J,#238,2.917808219,Behavior,NA,1,i.m.,hM4Di,DCZ,100,Wisconsin Card Sorting Task,1065
+238,238J,#238,2.920547945,Behavior,NA,0,i.m.,hM4Di,vehicle,na,Wisconsin Card Sorting Task,1066
+238,238J,#238,2.934246575,Behavior,NA,1,i.m.,hM4Di,DCZ,100,Wisconsin Card Sorting Task,1071
+238,238J,#238,2.936986301,Behavior,NA,0,i.m.,hM4Di,vehicle,na,Wisconsin Card Sorting Task,1072
+238,238J,#238,2.939726027,Behavior,NA,1,i.m.,hM4Di,DCZ,100,Wisconsin Card Sorting Task,1073
+238,238J,#238,2.956164384,Behavior,NA,0,i.m.,hM4Di,vehicle,na,Wisconsin Card Sorting Task,1079
+238,238J,#238,2.95890411,Behavior,NA,1,i.m.,hM4Di,DCZ,100,Wisconsin Card Sorting Task,1080
+238,238J,#238,2.997260274,Behavior,NA,0,i.m.,hM4Di,vehicle,na,devaluation task,1094
+238,238J,#238,3.005479452,Behavior,NA,1,i.m.,hM4Di,DCZ,100,devaluation task,1097
+238,238J,#238,3.016438356,Behavior,NA,0,i.m.,hM4Di,vehicle,na,devaluation task,1101
+238,238J,#238,3.032876712,Behavior,NA,1,i.m.,hM4Di,DCZ,100,devaluation task,1107
+238,238J,#238,3.038356164,Behavior,NA,0,i.m.,hM4Di,vehicle,na,devaluation task,1109
+238,238J,#238,3.052054795,Behavior,NA,1,i.m.,hM4Di,DCZ,100,devaluation task,1114
+238,238J,#238,3.060273973,Behavior,NA,0,i.m.,hM4Di,vehicle,na,devaluation task,1117
+238,238J,#238,3.071232877,Behavior,NA,1,i.m.,hM4Di,DCZ,100,devaluation task,1121
+245,245J,#245,0.230136986,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed response task,84
+245,245J,#245,0.24109589,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,88
+245,245J,#245,0.246575342,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed response task,90
+245,245J,#245,0.249315068,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,91
+245,245J,#245,0.260273973,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed response task,95
+245,245J,#245,0.263013699,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,96
+245,245J,#245,0.268493151,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed response task,98
+245,245J,#245,0.271232877,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,99
+245,245J,#245,0.282191781,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed response task,103
+245,245J,#245,0.284931507,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,104
+245,245J,#245,0.44109589,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,161
+245,245J,#245,0.443835616,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,162
+245,245J,#245,0.452054795,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,165
+245,245J,#245,0.454794521,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,166
+245,245J,#245,0.457534247,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,167
+245,245J,#245,0.460273973,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,168
+245,245J,#245,0.463013699,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,169
+245,245J,#245,0.465753425,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,170
+245,245J,#245,0.471232877,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,172
+245,245J,#245,0.473972603,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,173
+245,245J,#245,0.476712329,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,174
+245,245J,#245,0.479452055,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,175
+245,245J,#245,0.482191781,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,176
+245,245J,#245,0.490410959,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,179
+245,245J,#245,0.493150685,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,180
+245,245J,#245,0.495890411,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,181
+245,245J,#245,0.498630137,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,182
+245,245J,#245,0.501369863,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,183
+245,245J,#245,0.509589041,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,186
+245,245J,#245,0.512328767,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,187
+245,245J,#245,0.515068493,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,188
+245,245J,#245,0.517808219,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,189
+245,245J,#245,0.528767123,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,193
+245,245J,#245,0.531506849,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,194
+245,245J,#245,0.534246575,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,195
+245,245J,#245,0.539726027,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,197
+245,245J,#245,0.547945205,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,200
+245,245J,#245,0.550684932,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,201
+245,245J,#245,0.553424658,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,202
+245,245J,#245,0.55890411,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,204
+245,245J,#245,0.58630137,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,214
+245,245J,#245,0.589041096,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,215
+245,245J,#245,0.591780822,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,216
+245,245J,#245,0.594520548,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,217
+245,245J,#245,0.597260274,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,218
+245,245J,#245,0.610958904,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,223
+245,245J,#245,0.61369863,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,224
+245,245J,#245,0.616438356,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,225
+245,245J,#245,0.624657534,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,228
+245,245J,#245,0.62739726,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,229
+245,245J,#245,0.632876712,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,231
+245,245J,#245,0.635616438,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,232
+245,245J,#245,0.643835616,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,235
+245,245J,#245,0.646575342,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,236
+245,245J,#245,0.649315068,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,237
+245,245J,#245,0.652054795,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,238
+245,245J,#245,0.654794521,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,239
+245,245J,#245,0.663013699,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,242
+245,245J,#245,0.665753425,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed response task,243
+245,245J,#245,0.668493151,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,244
+245,245J,#245,0.671232877,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed response task,245
+245,245J,#245,0.673972603,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,246
+245,245J,#245,0.687671233,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,251
+245,245J,#245,0.690410959,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed response task,252
+245,245J,#245,0.693150685,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,253
+245,245J,#245,0.706849315,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,258
+245,245J,#245,0.709589041,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,259
+245,245J,#245,0.712328767,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,260
+245,245J,#245,0.723287671,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,264
+245,245J,#245,0.726027397,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,265
+245,245J,#245,0.728767123,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,266
+245,245J,#245,0.731506849,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,267
+245,245J,#245,0.739726027,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,270
+245,245J,#245,0.742465753,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,271
+245,245J,#245,0.745205479,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,272
+245,245J,#245,0.747945205,Behavior,NA,0,microinfusion,hM4Di,vehicle,na,delayed response task,273
+245,245J,#245,0.802739726,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,293
+245,245J,#245,0.805479452,Behavior,NA,1,p.o.,hM4Di,DCZ,100,delayed response task,294
+245,245J,#245,0.808219178,Behavior,NA,1,p.o.,hM4Di,DCZ,1000,delayed response task,295
+245,245J,#245,0.816438356,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,298
+245,245J,#245,0.819178082,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,299
+245,245J,#245,0.821917808,Behavior,NA,1,p.o.,hM4Di,DCZ,100,delayed response task,300
+245,245J,#245,0.824657534,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,301
+245,245J,#245,0.82739726,Behavior,NA,1,p.o.,hM4Di,DCZ,100,delayed response task,302
+245,245J,#245,0.835616438,Behavior,NA,1,p.o.,hM4Di,DCZ,1000,delayed response task,305
+245,245J,#245,0.84109589,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,307
+245,245J,#245,0.843835616,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,308
+245,245J,#245,0.854794521,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,312
+245,245J,#245,0.857534247,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,313
+245,245J,#245,0.863013699,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,315
+245,245J,#245,0.865753425,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,316
+245,245J,#245,0.873972603,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,319
+245,245J,#245,0.876712329,Behavior,NA,1,microinfusion,hM4Di,DCZ,na,delayed response task,320
+245,245J,#245,0.882191781,Behavior,NA,1,p.o.,hM4Di,DCZ,1000,delayed response task,322
+245,245J,#245,0.893150685,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,326
+245,245J,#245,0.901369863,Behavior,NA,1,p.o.,hM4Di,DCZ,100,delayed response task,329
+245,245J,#245,0.904109589,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,330
+245,245J,#245,0.920547945,Behavior,NA,1,p.o.,hM4Di,DCZ,100,delayed response task,336
+245,245J,#245,0.923287671,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,337
+245,245J,#245,0.931506849,Behavior,NA,1,p.o.,hM4Di,DCZ,1000,delayed response task,340
+245,245J,#245,0.934246575,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,341
+245,245J,#245,0.939726027,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,343
+245,245J,#245,0.942465753,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,344
+245,245J,#245,0.950684932,Behavior,NA,1,p.o.,hM4Di,DCZ,100,delayed response task,347
+245,245J,#245,0.953424658,Behavior,NA,1,p.o.,hM4Di,DCZ,1000,delayed response task,348
+245,245J,#245,0.95890411,Behavior,NA,1,p.o.,hM4Di,DCZ,100,delayed response task,350
+245,245J,#245,0.961643836,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,351
+245,245J,#245,0.969863014,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,354
+245,245J,#245,0.97260274,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,355
+245,245J,#245,0.975342466,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,356
+245,245J,#245,0.980821918,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,358
+245,245J,#245,0.989041096,Behavior,NA,1,p.o.,hM4Di,DCZ,1000,delayed response task,361
+245,245J,#245,0.994520548,Behavior,NA,1,p.o.,hM4Di,DCZ,1000,delayed response task,363
+245,245J,#245,1,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,365
+245,245J,#245,1.008219178,Behavior,NA,1,p.o.,hM4Di,DCZ,100,delayed response task,368
+245,245J,#245,1.01369863,Behavior,NA,1,i.m.,hM4Di,DCZ,100,delayed response task,370
+245,245J,#245,1.019178082,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,372
+245,245J,#245,1.02739726,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,375
+245,245J,#245,1.030136986,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,376
+245,245J,#245,1.032876712,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,377
+245,245J,#245,1.035616438,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,378
+245,245J,#245,1.038356164,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,379
+245,245J,#245,1.046575342,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,382
+245,245J,#245,1.046575342,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,382
+245,245J,#245,1.046575342,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,382
+245,245J,#245,1.049315068,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,383
+245,245J,#245,1.052054795,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,384
+245,245J,#245,1.054794521,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,385
+245,245J,#245,1.057534247,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,386
+245,245J,#245,1.060273973,Behavior,NA,1,p.o.,hM4Di,DCZ,300,no task,387
+245,245J,#245,1.063013699,Behavior,NA,1,p.o.,hM4Di,DCZ,300,no task,388
+245,245J,#245,1.065753425,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,389
+245,245J,#245,1.068493151,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,390
+245,245J,#245,1.071232877,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,391
+245,245J,#245,1.073972603,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,392
+245,245J,#245,1.076712329,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,393
+245,245J,#245,1.079452055,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,394
+245,245J,#245,1.082191781,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,395
+245,245J,#245,1.084931507,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,396
+245,245J,#245,1.087671233,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,397
+245,245J,#245,1.090410959,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,398
+245,245J,#245,1.093150685,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,399
+245,245J,#245,1.095890411,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,400
+245,245J,#245,1.098630137,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,401
+245,245J,#245,1.104109589,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,403
+245,245J,#245,1.106849315,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,404
+245,245J,#245,1.109589041,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,405
+245,245J,#245,1.112328767,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,406
+245,245J,#245,1.756164384,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,641
+245,245J,#245,1.75890411,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,642
+245,245J,#245,1.761643836,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,643
+245,245J,#245,1.764383562,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,644
+245,245J,#245,1.767123288,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,645
+245,245J,#245,1.775342466,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,648
+245,245J,#245,1.778082192,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,649
+245,245J,#245,1.780821918,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,650
+245,245J,#245,1.783561644,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,651
+245,245J,#245,1.78630137,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,652
+245,245J,#245,1.789041096,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,653
+245,245J,#245,1.791780822,Behavior,NA,1,p.o.,hM4Di,DCZ,300,no task,654
+245,245J,#245,1.794520548,Behavior,NA,1,p.o.,hM4Di,DCZ,300,no task,655
+245,245J,#245,1.797260274,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,656
+245,245J,#245,1.8,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,657
+245,245J,#245,1.802739726,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,658
+245,245J,#245,1.805479452,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,659
+245,245J,#245,1.808219178,Behavior,NA,1,p.o.,hM4Di,DCZ,300,delayed response task,660
+245,245J,#245,1.810958904,Behavior,NA,1,p.o.,hM4Di,DCZ,300,no task,661
+245,245J,#245,1.81369863,Behavior,NA,1,p.o.,hM4Di,DCZ,300,no task,662
+245,245J,#245,1.816438356,Behavior,NA,1,p.o.,hM4Di,DCZ,300,no task,663
+245,245J,#245,1.819178082,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,664
+245,245J,#245,1.821917808,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,665
+245,245J,#245,1.824657534,Behavior,NA,0,p.o.,hM4Di,vehicle,na,delayed response task,666
+245,245J,#245,1.893150685,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed response task,691
+245,245J,#245,1.895890411,Behavior,NA,1,i.m.,hM4Di,DCZ,10,delayed response task,692
+245,245J,#245,1.898630137,Behavior,NA,1,i.m.,hM4Di,DCZ,30,delayed response task,693
+245,245J,#245,1.920547945,Behavior,NA,1,i.m.,hM4Di,DCZ,10,delayed response task,701
+245,245J,#245,1.923287671,Behavior,NA,1,i.m.,hM4Di,DCZ,30,delayed response task,702
+245,245J,#245,1.931506849,Behavior,NA,0,i.m.,hM4Di,vehicle,na,delayed response task,705
+245,245J,#245,1.934246575,Behavior,NA,1,i.m.,hM4Di,DCZ,10,delayed response task,706
+245,245J,#245,1.936986301,Behavior,NA,1,i.m.,hM4Di,DCZ,30,delayed response task,707
+245,245J,#245,1.939726027,Behavior,NA,1,i.m.,hM4Di,DCZ,10,delayed response task,708
+245,245J,#245,1.942465753,Behavior,NA,1,i.m.,hM4Di,DCZ,30,delayed response task,709
+223,223C,#223,0.235616438,PET,FDG,1,i.v.,hM3Dq,DCZ,1,NA,86
+223,223C,#223,0.528767123,PET,FDG,1,i.v.,hM3Dq,DCZ,1,NA,193
+223,223C,#223,0.583561644,euthanize,NA,1,i.v.,hM3Dq,DCZ,1,NA,213
+224,224J,#224,0.136986301,PET,FDG,1,i.v.,hM3Dq,DCZ,3,NA,50
+224,224J,#224,0.306849315,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,112
+224,224J,#224,0.326027397,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,119
+224,224J,#224,0.350684932,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,128
+224,224J,#224,0.364383562,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,133
+224,224J,#224,0.77260274,PET,FDG,1,i.v.,hM3Dq,DCZ,3,NA,282
+224,224J,#224,0.810958904,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,296
+224,224J,#224,0.81369863,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,297
+224,224J,#224,0.824657534,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,301
+224,224J,#224,0.830136986,Behavior,NA,1,NA,hM3Dq,DCZ,3,NA,303
+224,224J,#224,0.843835616,Behavior,NA,1,NA,hM3Dq,DCZ,3,NA,308
+224,224J,#224,0.868493151,Behavior,NA,1,NA,hM3Dq,DCZ,3,NA,317
+224,224J,#224,0.887671233,Behavior,NA,1,NA,hM3Dq,DCZ,3,NA,324
+224,224J,#224,0.901369863,Behavior,NA,1,NA,hM3Dq,DCZ,3,NA,329
+236,236J,#236,1.010958904,PET,FDG,1,i.v.,hM3Dq,DCZ,3,NA,369
+236,236J,#236,1.052054795,PET,FDG,1,i.v.,hM3Dq,DCZ,3,NA,384
+236,236J,#236,1.487671233,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,543
+236,236J,#236,1.506849315,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,550
+236,236J,#236,1.528767123,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,558
+236,236J,#236,1.545205479,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,564
+236,236J,#236,1.569863014,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,573
+236,236J,#236,1.624657534,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,593
+236,236J,#236,1.643835616,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,600
+236,236J,#236,1.783561644,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,651
+236,236J,#236,1.794520548,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,655
+236,236J,#236,1.816438356,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,663
+236,236J,#236,1.854794521,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,677
+236,236J,#236,1.909589041,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,697
+236,236J,#236,1.994520548,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,728
+236,236J,#236,2.002739726,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,731
+236,236J,#236,2.010958904,Behavior,NA,1,NA,hM3Dq,DCZ,3,NA,734
+236,236J,#236,2.068493151,Behavior,NA,1,NA,hM3Dq,DCZ,3,NA,755
+236,236J,#236,2.087671233,Behavior,NA,1,NA,hM3Dq,DCZ,1,NA,762
+236,236J,#236,2.101369863,Behavior,NA,1,NA,hM3Dq,DCZ,3,NA,767
+236,236J,#236,2.117808219,Behavior,NA,1,NA,hM3Dq,DCZ,3,NA,773
+236,236J,#236,2.128767123,Behavior,NA,1,NA,hM3Dq,DCZ,3,NA,777
+236,236J,#236,2.238356164,PET,FDG,1,i.v.,hM3Dq,DCZ,1,NA,817
+236,236J,#236,2.282191781,PET,FDG,1,i.v.,hM3Dq,DCZ,3,NA,833
+241,241J,#241,0.197260274,PET,FDG,1,i.v.,hM3Dq,DCZ,1,NA,72
+241,241J,#241,0.353424658,PET,FDG,1,i.v.,hM3Dq,DCZ,1,NA,129
+241,241J,#241,0.498630137,PET,FDG,1,i.v.,hM3Dq,DCZ,1,NA,182
+241,241J,#241,1,PET,FDG,1,i.v.,hM3Dq,DCZ,1,NA,365
+241,241J,#241,1.112328767,euthanize,NA,1,i.v.,hM3Dq,DCZ,3,NA,406
+255,255C,#255,0.334246575,PET,FDG,1,i.v.,hM3Dq,DCZ,100,NA,122
+255,255C,#255,0.449315068,PET,FDG,1,i.v.,hM3Dq,DCZ,3,NA,164
+255,255C,#255,0.846575342,PET,DCZ,1,i.v.,hM3Dq,DCZ,30,NA,309
+255,255C,#255,0.961643836,PET,DCZ,1,i.v.,hM3Dq,DCZ,30,NA,351
+255,255C,#255,1.019178082,PET,DCZ,1,i.v.,hM3Dq,DCZ,100,NA,372
+255,255C,#255,1.095890411,PET,DCZ,1,i.v.,hM3Dq,DCZ,100,NA,400
+255,255C,#255,1.476712329,Behavior,NA,1,i.m.,hM3Dq,DCZ,,NA,539
+255,255C,#255,1.484931507,Behavior,NA,1,i.m.,hM3Dq,DCZ,,NA,542
+255,255C,#255,1.6,MRI,NA,1,i.v.,hM3Dq,DCZ,,NA,584
+255,255C,#255,1.676712329,MRI,NA,1,i.v.,hM3Dq,DCZ,,NA,612
+255,255C,#255,1.695890411,MRI,NA,1,i.v.,hM3Dq,DCZ,,NA,619
+255,255C,#255,1.715068493,MRI,NA,1,i.v.,hM3Dq,DCZ,,NA,626
+255,255C,#255,1.753424658,MRI,NA,1,i.v.,hM3Dq,DCZ,,NA,640
+255,255C,#255,1.77260274,MRI,NA,1,i.v.,hM3Dq,DCZ,,NA,647
